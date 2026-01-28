@@ -1,6 +1,6 @@
 # 🌈 Welcome to Music player web application 🌈
 
-Live Demo: :point_right: [here](https://phuuthanh2003.github.io/Music_Player/)
+Live Demo: :point_right: [here](https://phuuthanh-dev.github.io/Music_Player/)
 
 ### Description:
 - This application for practicing html, css and javascript.
